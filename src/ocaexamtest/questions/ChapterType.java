@@ -1,4 +1,4 @@
-package ocaexamtest;
+package ocaexamtest.questions;
 
 public enum ChapterType {
     OCACH1("Java Building Blocks"),

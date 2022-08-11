@@ -1,4 +1,4 @@
-package ocaexamtest;
+package ocaexamtest.questions;
 
 import java.util.ArrayList;
 import java.util.List;

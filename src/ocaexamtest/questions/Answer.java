@@ -1,4 +1,4 @@
-package ocaexamtest;
+package ocaexamtest.questions;
 
 public class Answer {
     private String text;
